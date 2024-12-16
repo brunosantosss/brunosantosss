@@ -1,1 +1,11 @@
-![brunosantosss](https://github-readme-stats.vercel.app/api?username=brunosantosss)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brunosantosss&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brunosantosss&show_icons=true&bg_color=0d0d0d"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunosantosss&show_icons=true" />
+</picture>

@@ -10,7 +10,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-3179C7?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-7D7EC0?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7D7EC0?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3675A8?style=for-the-badge&logo=python&logoColor=white)
 
 <div align="center">
 

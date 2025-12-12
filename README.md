@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36F&lines=FullStack+Developer;Web3+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36F&lines=FullStack+Developer)](https://git.io/typing-svg)
 
 ## 🛠️ Tecnologias e Ferramentas
 

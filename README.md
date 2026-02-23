@@ -1,15 +1,20 @@
 # Olá, eu sou o Bruno! 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36F&lines=FullStack+Developer)](https://git.io/typing-svg)
 
-## 🛠️ Tecnologias e Ferramentas
+## Resumo Profissional
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Desenvolvedor Full-Stack com 1+ anos de experiência em React, TypeScript, NestJS e arquitetura de sistemas.
+Histórico comprovado de liderança técnica e entrega de soluções escaláveis que impactam milhares de usuários.
+Vencedor de 5 medalhas de ouro em competições nacionais de robótica e inovação tecnológica.
+
+## Tecnologias e Ferramentas
+
+![NextJS](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=EA2845)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3179C7?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-7D7EC0?style=for-the-badge&logo=php&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3675A8?style=for-the-badge&logo=python&logoColor=white)
 
 <div align="center">
